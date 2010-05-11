@@ -3,10 +3,10 @@ abstract: 'Replacements for map, grep with named block variables.'
 author:
   - 'Chad Granum <exodist7@gmail.com>'
 build_requires:
-  Fennec: 0.018
+  Fennec: 0.019
 configure_requires:
   Module::Build: 0.36
-generated_by: 'Module::Build version 0.3605'
+generated_by: 'Module::Build version 0.3603'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -15,11 +15,11 @@ name: Block-NamedVar
 provides:
   Block::NamedVar:
     file: lib/Block/NamedVar.pm
-    version: 0.002
+    version: 0.003
 requires:
-  Devel::Declare::Parser: 0.011
+  Devel::Declare::Parser: 0.012
 resources:
   bugtracker: http://github.com/exodist/Block-NamedVar/issues
   license: http://dev.perl.org/licenses/
   repository: http://github.com/exodist/Block-NamedVar
-version: 0.002
+version: 0.003
