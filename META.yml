@@ -15,11 +15,14 @@ name: Block-NamedVar
 provides:
   Block::NamedVar:
     file: lib/Block/NamedVar.pm
-    version: 0.003
+    version: 0.004
+  Block::NamedVar::Parser:
+    file: lib/Block/NamedVar/Parser.pm
+    version: 0.004
 requires:
-  Devel::Declare::Parser: 0.012
+  Devel::Declare::Parser: 0.014
 resources:
   bugtracker: http://github.com/exodist/Block-NamedVar/issues
   license: http://dev.perl.org/licenses/
   repository: http://github.com/exodist/Block-NamedVar
-version: 0.003
+version: 0.004
