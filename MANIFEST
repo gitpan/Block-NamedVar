@@ -1,13 +1,3 @@
-Block-NamedVar-0.004.tar.gz
-Block-NamedVar-0.004/Build.PL
-Block-NamedVar-0.004/lib/Block/NamedVar.pm
-Block-NamedVar-0.004/lib/Block/NamedVar/Parser.pm
-Block-NamedVar-0.004/MANIFEST
-Block-NamedVar-0.004/META.yml
-Block-NamedVar-0.004/MYMETA.yml
-Block-NamedVar-0.004/README
-Block-NamedVar-0.004/t/Fennec.t
-Block-NamedVar-0.004/t/NamedVar.pm
 Build.PL
 lib/Block/NamedVar.pm
 lib/Block/NamedVar/ForLike.pm

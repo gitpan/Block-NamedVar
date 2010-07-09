@@ -1,8 +1,0 @@
-Build.PL
-lib/Block/NamedVar.pm
-lib/Block/NamedVar/Parser.pm
-MANIFEST			This list of files
-META.yml
-README
-t/Fennec.t
-t/NamedVar.pm
