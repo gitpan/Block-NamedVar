@@ -1,7 +1,6 @@
-package TEST::Block::NamedVar;
 use strict;
 use warnings;
-use Fennec;
+use Fennec::Declare;
 
 use Block::NamedVar;
 

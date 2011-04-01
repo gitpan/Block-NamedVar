@@ -3,10 +3,10 @@ abstract: 'Named variables for grep and map, for with multiple named list elemen
 author:
   - 'Chad Granum <exodist7@gmail.com>'
 build_requires:
-  Fennec: 0.026
+  Fennec: 1
 configure_requires:
   Module::Build: 0.36
-generated_by: 'Module::Build version 0.3603'
+generated_by: 'Module::Build version 0.3624'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -15,7 +15,7 @@ name: Block-NamedVar
 provides:
   Block::NamedVar:
     file: lib/Block/NamedVar.pm
-    version: 0.007
+    version: 0.008
   Block::NamedVar::ForLike:
     file: lib/Block/NamedVar/ForLike.pm
   Block::NamedVar::MapLike:
@@ -26,4 +26,4 @@ resources:
   bugtracker: http://github.com/exodist/Block-NamedVar/issues
   license: http://dev.perl.org/licenses/
   repository: http://github.com/exodist/Block-NamedVar
-version: 0.007
+version: 0.008
